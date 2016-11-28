@@ -1,2 +1,3 @@
 # tutorial
-I am learning how to use Github.
+I am learning how to use.
+I am making some suggestions as an apprentice.
